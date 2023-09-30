@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&lines=I'm+Alexander+Kagerer!;Frontend+Developer+from+South+Africa;Gamer,+Skateboarder,+Football+Enthusiast)
 
 ![Profile views](https://komarev.com/ghpvc/?username=kagerer19&color=8A2BE2)
