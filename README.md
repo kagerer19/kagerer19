@@ -31,7 +31,6 @@ Every day, I dive deeper into the fascinating world of frontend development. The
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-![snake gif](https://github.com/[YourGitHubUsername]/[YourGitHubUsername]/blob/output/github-contribution-grid-snake.gif)
 
 ## Connect with Me 🤝
 
