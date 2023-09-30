@@ -38,5 +38,5 @@ Every day, I dive deeper into the fascinating world of frontend development. The
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)]([https://linkedin.com/in/john-doe-12345678/](https://www.linkedin.com/in/alexander-kagerer-117971290))
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/[preacher.dev])
 
-![snake gif](https://github.com/[kagerer19]/[kagerer19]/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/kagerer19/kagerer19/blob/output/github-contribution-grid-snake.gif)
 
