@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&lines=Hello,+I'm+[Alexander Kagerer]!;Frontend+Developer+from+South+Africa;Gamer,+Skateboarder,+Football+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&lines=Hello,+I'm+[Alexander Kagerer]!;Frontend+Developer+from+South+Africa;Gamer,+Skateboarder,+Football+Enthusiast)](https://git.io/typing-svg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=[kagerer19]&color=8A2BE2)
 
