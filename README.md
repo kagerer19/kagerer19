@@ -39,3 +39,17 @@ Every day, I dive deeper into the fascinating world of frontend development. The
 
 ![snake gif](https://github.com/kagerer19/kagerer19/blob/output/github-contribution-grid-snake.gif)
 
+<h2 align="center">:snake: Contributions :snake:</h2>
+
+ 
+
+<table align="center">
+<tr>
+<td align="center" style="border: 3px solid #8C6CFF; border-radius: 10px; background-color: #fafafa; box-shadow: 2px 2px 5px #888888;">
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/kagerer19/kagerer19/blob/output/github-snake.svg" />
+<img alt="github-snake" src="https://github.com/kagerer19/kagerer19/blob/output/github-snake.svg" />
+</picture>
+</td>
+</tr>
+</table>
