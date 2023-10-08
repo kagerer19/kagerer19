@@ -13,10 +13,6 @@ I'm a frontend developer from South Africa 🇿🇦.
 
 🎮 **Gamer Mode**: Video games are another thrill. They remind me that with the right code, you can create whole new worlds and experiences.
 
-## My Journey 🚀
-
-Every day, I dive deeper into the fascinating world of frontend development. The possibilities, the challenges, and the creativity involved excite me. I'm always eager to learn and make my mark. These are exciting times, and the journey's just beginning!
-
 ## Tech Stack 🛠️
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
