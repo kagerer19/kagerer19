@@ -16,7 +16,6 @@ I'm a frontend developer from South Africa 🇿🇦.
 ## Tech Stack 🛠️
 
 ![HTML](https://img.shields.io/badge/Language-HTML-E44D26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![Node.js](https://img.shields.io/badge/Platform-Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Framework-Express.js-000000?style=for-the-badge&logo=express)
