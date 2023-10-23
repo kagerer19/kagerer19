@@ -15,18 +15,22 @@ I'm a frontend developer from South Africa 🇿🇦.
 
 ## Tech Stack 🛠️
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![HTML](https://img.shields.io/badge/Language-HTML-E44D26?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Platform-Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Framework-Express.js-000000?style=for-the-badge&logo=express)
+![SCSS / CSS](https://img.shields.io/badge/Languages-SCSS%20%2F%20CSS-FF3E51?style=for-the-badge)
+![Java](https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=java)
+![Flutter](https://img.shields.io/badge/Framework-Flutter-02569B?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Language-Dart-0175C2?style=for-the-badge&logo=dart)
+![React](https://img.shields.io/badge/Library-React-61DAFB?style=for-the-badge&logo=react)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Data%20Platform-Elasticsearch-0096D7?style=for-the-badge&logo=elasticsearch)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Kibana](https://img.shields.io/badge/Data%20Platform-Kibana-005571?style=for-the-badge&logo=kibana)
+![PHP](https://img.shields.io/badge/Language-PHP-777BB4?style=for-the-badge&logo=php)
+![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/Design%20Tool-Figma-F24E1E?style=for-the-badge&logo=figma)
 
 
 ## Connect with Me 🤝
