@@ -25,6 +25,7 @@ I'm a frontend developer from South Africa 🇿🇦.
 ![Dart](https://img.shields.io/badge/Language-Dart-0175C2?style=for-the-badge&logo=dart)
 ![React](https://img.shields.io/badge/Library-React-61DAFB?style=for-the-badge&logo=react)
 ![SQL](https://img.shields.io/badge/Language-SQL-4479A1?style=for-the-badge&logo=sql)
+![Elasticsearch](https://img.shields.io/badge/Data%20Platform-mongodb-0096D7?style=for-the-badge&logo=mongodb)
 ![Elasticsearch](https://img.shields.io/badge/Data%20Platform-Elasticsearch-0096D7?style=for-the-badge&logo=elasticsearch)
 ![Kibana](https://img.shields.io/badge/Data%20Platform-Kibana-005571?style=for-the-badge&logo=kibana)
 ![PHP](https://img.shields.io/badge/Language-PHP-777BB4?style=for-the-badge&logo=php)
