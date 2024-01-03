@@ -20,14 +20,15 @@ I'm a frontend developer from South Africa 🇿🇦.
 ![Node.js](https://img.shields.io/badge/Platform-Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Framework-Express.js-000000?style=for-the-badge&logo=express)
 ![SCSS / CSS](https://img.shields.io/badge/Languages-SCSS%20%2F%20CSS-FF3E51?style=for-the-badge)
+![PHP](https://img.shields.io/badge/Language-PHP-777BB4?style=for-the-badge&logo=php)
 ![Java](https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=java)
 ![React](https://img.shields.io/badge/Library-React-61DAFB?style=for-the-badge&logo=react)
 ![SQL](https://img.shields.io/badge/Language-SQL-4479A1?style=for-the-badge&logo=sql)
+![MERN Stack](https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=101010)
+![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git)
 ![Elasticsearch](https://img.shields.io/badge/Data%20Platform-mongodb-0096D7?style=for-the-badge&logo=mongodb)
 ![Elasticsearch](https://img.shields.io/badge/Data%20Platform-Elasticsearch-0096D7?style=for-the-badge&logo=elasticsearch)
 ![Kibana](https://img.shields.io/badge/Data%20Platform-Kibana-005571?style=for-the-badge&logo=kibana)
-![PHP](https://img.shields.io/badge/Language-PHP-777BB4?style=for-the-badge&logo=php)
-![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/Design%20Tool-Figma-F24E1E?style=for-the-badge&logo=figma)
 
 
