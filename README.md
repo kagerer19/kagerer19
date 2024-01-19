@@ -34,7 +34,7 @@ I'm a frontend developer from South Africa 🇿🇦.
 
 ## Connect with Me 🤝
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)]([www.linkedin.com/in/alexander-kagerer-117971290])
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)]([www.linkedin.com/in/alexander-kagerer-117971290])]
 
 <h2 align="center">:snake: Contributions :snake:</h2>
 
