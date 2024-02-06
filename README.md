@@ -3,7 +3,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=kagerer19&color=8A2BE2)
 
-I'm a frontend developer from South Africa 🇿🇦. 
+Frontend developer. 
 
 🌊 **Riding the Waves**: Not just in the ocean, but also on the web! As I explore the vast realm of frontend development, I constantly find new shores and challenges that keep me motivated.
 
